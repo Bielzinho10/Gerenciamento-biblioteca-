@@ -68,7 +68,30 @@ class Biblioteca
                             Console.WriteLine("Opção inválida, tente novamente.");
                             break;
                     }
-                }
+                } while (opcao !="0");  
+    }
+
+    static void ExibirMenu()
+    {
+        Console.WriteLine("\nMenu de opções: ");
+        Console.WriteLine("1- Listar livros disponíveis");
+        Console.WriteLine("2- Emprestar livro");
+        Console.WriteLine("3- Devolver livro");
+        Console.WriteLine("4- Verificar limite de empréstimos");
+        Console.WriteLine("0- Sair");
+        Console.WriteLine("Escolha uma opção: ");
+    }
+    
+    static void ListarLivros()
+    {
+        Console.WriteLine("n\LivrosDisponiveis: ");
+        foreach (var livro in livrosDisponiveis)
+        {
+            Console.WriteLine(livro);
+        }
+    }
+    
+                
                 
 
                     
