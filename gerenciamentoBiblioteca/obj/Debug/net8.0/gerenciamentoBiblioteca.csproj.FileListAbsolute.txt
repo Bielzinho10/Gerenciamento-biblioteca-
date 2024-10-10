@@ -1,0 +1,15 @@
+C:\Users\Alunos\OneDrive\Documentos\GabrielFerreira\Gerenciamento-biblioteca-\gerenciamentoBiblioteca\obj\Debug\net8.0\gerenciamentoBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\OneDrive\Documentos\GabrielFerreira\Gerenciamento-biblioteca-\gerenciamentoBiblioteca\obj\Debug\net8.0\gerenciamentoBiblioteca.AssemblyInfoInputs.cache
+C:\Users\Alunos\OneDrive\Documentos\GabrielFerreira\Gerenciamento-biblioteca-\gerenciamentoBiblioteca\obj\Debug\net8.0\gerenciamentoBiblioteca.AssemblyInfo.cs
+C:\Users\Alunos\OneDrive\Documentos\GabrielFerreira\Gerenciamento-biblioteca-\gerenciamentoBiblioteca\obj\Debug\net8.0\gerenciamentoBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\OneDrive\Documentos\GabrielFerreira\Gerenciamento-biblioteca-\gerenciamentoBiblioteca\obj\Debug\net8.0\gerenciamentoBiblioteca.sourcelink.json
+C:\Users\Alunos\OneDrive\Documentos\GabrielFerreira\Gerenciamento-biblioteca-\gerenciamentoBiblioteca\bin\Debug\net8.0\gerenciamentoBiblioteca.exe
+C:\Users\Alunos\OneDrive\Documentos\GabrielFerreira\Gerenciamento-biblioteca-\gerenciamentoBiblioteca\bin\Debug\net8.0\gerenciamentoBiblioteca.deps.json
+C:\Users\Alunos\OneDrive\Documentos\GabrielFerreira\Gerenciamento-biblioteca-\gerenciamentoBiblioteca\bin\Debug\net8.0\gerenciamentoBiblioteca.runtimeconfig.json
+C:\Users\Alunos\OneDrive\Documentos\GabrielFerreira\Gerenciamento-biblioteca-\gerenciamentoBiblioteca\bin\Debug\net8.0\gerenciamentoBiblioteca.dll
+C:\Users\Alunos\OneDrive\Documentos\GabrielFerreira\Gerenciamento-biblioteca-\gerenciamentoBiblioteca\bin\Debug\net8.0\gerenciamentoBiblioteca.pdb
+C:\Users\Alunos\OneDrive\Documentos\GabrielFerreira\Gerenciamento-biblioteca-\gerenciamentoBiblioteca\obj\Debug\net8.0\gerenciamentoBiblioteca.dll
+C:\Users\Alunos\OneDrive\Documentos\GabrielFerreira\Gerenciamento-biblioteca-\gerenciamentoBiblioteca\obj\Debug\net8.0\refint\gerenciamentoBiblioteca.dll
+C:\Users\Alunos\OneDrive\Documentos\GabrielFerreira\Gerenciamento-biblioteca-\gerenciamentoBiblioteca\obj\Debug\net8.0\gerenciamentoBiblioteca.pdb
+C:\Users\Alunos\OneDrive\Documentos\GabrielFerreira\Gerenciamento-biblioteca-\gerenciamentoBiblioteca\obj\Debug\net8.0\gerenciamentoBiblioteca.genruntimeconfig.cache
+C:\Users\Alunos\OneDrive\Documentos\GabrielFerreira\Gerenciamento-biblioteca-\gerenciamentoBiblioteca\obj\Debug\net8.0\ref\gerenciamentoBiblioteca.dll
