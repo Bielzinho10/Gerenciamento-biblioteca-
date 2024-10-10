@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Reflection.Metadata;
 
 class Biblioteca
 {
@@ -90,7 +91,49 @@ class Biblioteca
             Console.WriteLine(livro);
         }
     }
+
+    static void EmprestarLivro(string usuario, int limite)
+    {
+        Console.WriteLine($"Você atingiu o limite de {limite} livros emprestados.");
+        return;
+    }
+
+    Console.WriteLine("Digite o nome do livro que deseja emprestar: ");
+    string livro = Console.ReadLine();
+
+    if (livrosDisponiveis.Contains(livro))
+    {
+        livrosDisponiveis.Remove(livro);
+        if (!livrosEmprestados.ContainsKey(livro))
+        {
+            livrosEmprestados[livro] = 0;
+        }
+        livrosEmprestados[livro]++;
+        limitePorUsuario[usuario]++;
+        Console.WriteLine($"Você emprestou '{livro}'.");
+    }
+    else
+    {
+        Console.WriteLine("Livro não disponível.");
+    }
+}
+
+static void DevolverLivro(string usuario)
+{
+    Console.WriteLine("Digite o nome do livro que deseja devolver: ");
+    string livro = Console.ReadLine();
+
+
+    if (livrosEmprestados.ContainsKey(livro) && livrosEmprestados[livro] > 0)
+    {
+        livrosEmprestados[livro]--;
+        limitePorUsuario[usuario]--;
+        livrosDisponiveis.Add(livro);
+        Console.WriteLine($"Você devolveu '{livro}'.");
+    }
     
+
+
                 
                 
 
